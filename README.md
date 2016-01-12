@@ -1,0 +1,2 @@
+# GitFeaturesChk
+testing features
